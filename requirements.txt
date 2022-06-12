@@ -1,0 +1,8 @@
+I need to figure out:
+    How to calculate: 
+        Easter
+        Christmas/Advent
+        Ash Wednesday
+        Pentacost
+        Those are the main ones. 
+        Also, epiphany, trinity sunday, etc. 
